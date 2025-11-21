@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: cdd1d185d60c39241b3db95990750895
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6169372243864588685
+    second: parralax bg (3)_0
+  - first:
+      213: -8829161907733244518
+    second: parralax bg (3)_1
+  - first:
+      213: -8614326226733046001
+    second: parralax bg (3)_2
+  - first:
+      213: -3951718954440939297
+    second: parralax bg (3)_3
+  - first:
+      213: -3041948719464239204
+    second: parralax bg (3)_4
+  - first:
+      213: 2489309465658241172
+    second: parralax bg (3)_5
+  - first:
+      213: 8020310374972744992
+    second: parralax bg (3)_6
+  - first:
+      213: -1613300445963536085
+    second: parralax bg (3)_7
+  - first:
+      213: 7171713590064049676
+    second: parralax bg (3)_8
+  - first:
+      213: -1211149337679006044
+    second: parralax bg (3)_9
+  - first:
+      213: -8862600885214977503
+    second: parralax bg (3)_10
+  - first:
+      213: -6597850029338773903
+    second: parralax bg (3)_11
+  - first:
+      213: -8997229246570781283
+    second: parralax bg (3)_12
+  - first:
+      213: -3230152522697430876
+    second: parralax bg (3)_13
+  - first:
+      213: 7699077356748605757
+    second: parralax bg (3)_14
+  - first:
+      213: -3644462955987429536
+    second: parralax bg (3)_15
+  - first:
+      213: 5414235219194622958
+    second: parralax bg (3)_16
+  - first:
+      213: 7302137828860051166
+    second: parralax bg (3)_17
+  - first:
+      213: -7563040442699377234
+    second: parralax bg (3)_18
+  - first:
+      213: -2967046643599604428
+    second: parralax bg (3)_19
+  - first:
+      213: 7654509111831064917
+    second: parralax bg (3)_20
+  - first:
+      213: 5826212812049760953
+    second: parralax bg (3)_21
+  - first:
+      213: 5482976398372036480
+    second: parralax bg (3)_22
+  - first:
+      213: -739690161699028783
+    second: parralax bg (3)_23
+  - first:
+      213: 8079655748224468976
+    second: parralax bg (3)_24
+  - first:
+      213: -1658888657682985999
+    second: parralax bg (3)_25
+  - first:
+      213: -6291529033697959800
+    second: parralax bg (3)_26
+  - first:
+      213: -3163694925745247043
+    second: parralax bg (3)_27
+  - first:
+      213: 2560456386604802371
+    second: parralax bg (3)_28
+  - first:
+      213: -8986072874508174103
+    second: parralax bg (3)_29
+  - first:
+      213: 9070192609723362218
+    second: parralax bg (3)_30
+  - first:
+      213: -7820705901361461071
+    second: parralax bg (3)_31
+  - first:
+      213: 2789637578635590757
+    second: parralax bg (3)_32
+  - first:
+      213: -2749694466473596313
+    second: parralax bg (3)_33
+  - first:
+      213: 3776964352017542457
+    second: parralax bg (3)_34
+  - first:
+      213: 1787947232266636785
+    second: parralax bg (3)_35
+  - first:
+      213: -2803444775660450947
+    second: parralax bg (3)_36
+  - first:
+      213: 4607810481856377702
+    second: parralax bg (3)_37
+  - first:
+      213: -8545081414306503257
+    second: parralax bg (3)_38
+  - first:
+      213: -1705054083252412341
+    second: parralax bg (3)_39
+  - first:
+      213: 4460786057921971612
+    second: parralax bg (3)_40
+  - first:
+      213: -1505585174967421036
+    second: parralax bg (3)_41
+  - first:
+      213: -816190766616907509
+    second: parralax bg (3)_42
+  - first:
+      213: -5944366669262895811
+    second: parralax bg (3)_43
+  - first:
+      213: 6934040899907226869
+    second: parralax bg (3)_44
+  - first:
+      213: 2848882233082241278
+    second: parralax bg (3)_45
+  - first:
+      213: -2098791300620589083
+    second: parralax bg (3)_46
+  - first:
+      213: 6247521301110003641
+    second: parralax bg (3)_47
+  - first:
+      213: 8645566480773917092
+    second: parralax bg (3)_48
+  - first:
+      213: 5380806524641283664
+    second: parralax bg (3)_49
+  - first:
+      213: 9184943487084569322
+    second: parralax bg (3)_50
+  - first:
+      213: 4746374056299251783
+    second: parralax bg (3)_51
+  - first:
+      213: -1512622698160842161
+    second: parralax bg (3)_52
+  - first:
+      213: -6975246425010851245
+    second: parralax bg (3)_53
+  - first:
+      213: -5242952588963277373
+    second: parralax bg (3)_54
+  - first:
+      213: 8076098071094314418
+    second: parralax bg (3)_55
+  - first:
+      213: 7483649436047584260
+    second: parralax bg (3)_56
+  - first:
+      213: 1369626183587791312
+    second: parralax bg (3)_57
+  - first:
+      213: -9159181767603152985
+    second: parralax bg (3)_58
+  - first:
+      213: -528411609042934773
+    second: parralax bg (3)_59
+  - first:
+      213: -6834450841717273924
+    second: parralax bg (3)_60
+  - first:
+      213: 4568115249829187070
+    second: parralax bg (3)_61
+  - first:
+      213: -62444664991955663
+    second: parralax bg (3)_62
+  - first:
+      213: -1083169390524652486
+    second: parralax bg (3)_63
+  - first:
+      213: 3581290089173332391
+    second: parralax bg (3)_64
+  - first:
+      213: -9114059904212803929
+    second: parralax bg (3)_65
+  - first:
+      213: 8029062285876908364
+    second: parralax bg (3)_66
+  - first:
+      213: 5936498673078437064
+    second: parralax bg (3)_67
+  - first:
+      213: 161639444454150695
+    second: parralax bg (3)_68
+  - first:
+      213: -6936595288219732018
+    second: parralax bg (3)_69
+  - first:
+      213: 9219995240341889427
+    second: parralax bg (3)_70
+  - first:
+      213: 5905304190002354044
+    second: parralax bg (3)_71
+  - first:
+      213: -2827391036351132382
+    second: parralax bg (3)_72
+  - first:
+      213: 6313854773405588983
+    second: parralax bg (3)_73
+  - first:
+      213: -1053096623439229161
+    second: parralax bg (3)_74
+  - first:
+      213: -2754622455246320506
+    second: parralax bg (3)_75
+  - first:
+      213: -6468917172868619160
+    second: parralax bg (3)_76
+  - first:
+      213: 9216718051746604354
+    second: parralax bg (3)_77
+  - first:
+      213: -964927382017794067
+    second: parralax bg (3)_78
+  - first:
+      213: 3708681323286527251
+    second: parralax bg (3)_79
+  - first:
+      213: -711919044756313481
+    second: parralax bg (3)_80
+  - first:
+      213: -4779561140365803484
+    second: parralax bg (3)_81
+  - first:
+      213: 8805925527450813057
+    second: parralax bg (3)_82
+  - first:
+      213: 7160051568345401956
+    second: parralax bg (3)_83
+  - first:
+      213: -2016340990675253349
+    second: parralax bg (3)_84
+  - first:
+      213: -3672654070188758302
+    second: parralax bg (3)_85
+  - first:
+      213: 8811287492074843503
+    second: parralax bg (3)_86
+  - first:
+      213: -7453215943316596295
+    second: parralax bg (3)_87
+  - first:
+      213: 5741001646848750677
+    second: parralax bg (3)_88
+  - first:
+      213: 4706540473107085598
+    second: parralax bg (3)_89
+  - first:
+      213: 2519927627943974159
+    second: parralax bg (3)_90
+  - first:
+      213: -4877805481800805944
+    second: parralax bg (3)_91
+  - first:
+      213: -4195083592667491497
+    second: parralax bg (3)_92
+  - first:
+      213: -1341578906807353918
+    second: parralax bg (3)_93
+  - first:
+      213: -1772064828658791137
+    second: parralax bg (3)_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parralax bg (3)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3000
+        height: 3000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8114ba7e530e9550800000000000000
+      internalID: 6169372243864588685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1181
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9556291604887580800000000000000
+      internalID: -8829161907733244518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_2
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07ee3cffe3c37880800000000000000
+      internalID: -8614326226733046001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1234
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8ae5c4c8ca829c0800000000000000
+      internalID: -3951718954440939297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_4
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1163
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f216fa1c3d8c5d0800000000000000
+      internalID: -3041948719464239204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_5
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1150
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b39425cdcb8220800000000000000
+      internalID: 2489309465658241172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1197
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02561a8eacddd4f60800000000000000
+      internalID: 8020310374972744992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1198
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b293d52cac76c99e0800000000000000
+      internalID: -1613300445963536085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_8
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eeb96438b078360800000000000000
+      internalID: 7171713590064049676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_9
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1188
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a671b52812213fe0800000000000000
+      internalID: -1211149337679006044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1225
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122e2b27377b10580800000000000000
+      internalID: -8862600885214977503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1213
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17636ffea5abf64a0800000000000000
+      internalID: -6597850029338773903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_12
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1771
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95a46b6bab632380800000000000000
+      internalID: -8997229246570781283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_13
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1154
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8a94a05613c23d0800000000000000
+      internalID: -3230152522697430876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_14
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d390143801e98da60800000000000000
+      internalID: 7699077356748605757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_15
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1080
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0679c4f20444c6dc0800000000000000
+      internalID: -3644462955987429536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_16
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1124
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3318afe3a332b40800000000000000
+      internalID: 5414235219194622958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_17
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1177
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede352ebaa7665560800000000000000
+      internalID: 7302137828860051166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_18
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea59dfeb9ceaa0790800000000000000
+      internalID: -7563040442699377234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_19
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1081
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4350b383ccee2d6d0800000000000000
+      internalID: -2967046643599604428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_20
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1136
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5517eac5b774a3a60800000000000000
+      internalID: 7654509111831064917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_21
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1179
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b24e081faddad050800000000000000
+      internalID: 5826212812049760953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_22
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1069
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fd0d8fbf1771c40800000000000000
+      internalID: 5482976398372036480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_23
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1086
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0041c87b71cb5f0800000000000000
+      internalID: -739690161699028783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_24
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1186
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7cc5c5814b02070800000000000000
+      internalID: 8079655748224468976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_25
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1199
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb81e41e817af8e0800000000000000
+      internalID: -1658888657682985999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_26
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88060648dafffa8a0800000000000000
+      internalID: -6291529033697959800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_27
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1216
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcaf3d1a3c4814d0800000000000000
+      internalID: -3163694925745247043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_28
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 583
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341a57a8481988320800000000000000
+      internalID: 2560456386604802371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_29
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecba25b45e0b4380800000000000000
+      internalID: -8986072874508174103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_30
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 530
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab2fe26f1ccfdd70800000000000000
+      internalID: 9070192609723362218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_31
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 545
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b88c882b65477390800000000000000
+      internalID: -7820705901361461071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_32
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1202
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cb7aef898c6b620800000000000000
+      internalID: 2789637578635590757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_33
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 597
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aebf4837f17d9d0800000000000000
+      internalID: -2749694466473596313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_34
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 517
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93da15321197a6430800000000000000
+      internalID: 3776964352017542457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_35
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 578
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd4568e88010d810800000000000000
+      internalID: 1787947232266636785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_36
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 574
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b855f64d92819d0800000000000000
+      internalID: -2803444775660450947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_37
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 628
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663fe53583b32ff30800000000000000
+      internalID: 4607810481856377702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_38
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 550
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5e77b3ab5c96980800000000000000
+      internalID: -8545081414306503257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_39
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 591
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4029e4585e6658e0800000000000000
+      internalID: -1705054083252412341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_40
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 564
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9544711945e7ed30800000000000000
+      internalID: 4460786057921971612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_41
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 131
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f8f2a2461b1be0800000000000000
+      internalID: -1505585174967421036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_42
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 158
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0178d672de4ca4f0800000000000000
+      internalID: -816190766616907509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_43
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 119
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35c9e7420e518da0800000000000000
+      internalID: -5944366669262895811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_44
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 213
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc0009d579aa3060800000000000000
+      internalID: 6934040899907226869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_45
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 155
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0e9c50c43498720800000000000000
+      internalID: 2848882233082241278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_46
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e764d49e689fd2e0800000000000000
+      internalID: -2098791300620589083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_47
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 193
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b71957c587a3b650800000000000000
+      internalID: 6247521301110003641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_48
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 213
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9ad8878e83bf770800000000000000
+      internalID: 8645566480773917092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_49
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 888
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e095286077caa40800000000000000
+      internalID: 5380806524641283664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_50
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2a6b50079777f70800000000000000
+      internalID: 9184943487084569322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_51
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 871
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748c8dc8e028ed140800000000000000
+      internalID: 4746374056299251783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_52
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 148
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a1ee49ba5120be0800000000000000
+      internalID: -1512622698160842161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_53
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 167
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3523a683552f23f90800000000000000
+      internalID: -6975246425010851245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_54
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 268
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c511a0166a4d37b0800000000000000
+      internalID: -5242952588963277373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_55
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 324
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b54bca1860141070800000000000000
+      internalID: 8076098071094314418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_56
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 289
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c2b2313834bd760800000000000000
+      internalID: 7483649436047584260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_57
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 266
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d103d3e1c3e10310800000000000000
+      internalID: 1369626183587791312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_58
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 330
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a797c4b5bc04e080800000000000000
+      internalID: -9159181767603152985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_59
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 319
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04adc3f074baa8f0800000000000000
+      internalID: -528411609042934773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_60
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba82908b272721a0800000000000000
+      internalID: -6834450841717273924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_61
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 309
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd0d17ed94356f30800000000000000
+      internalID: 4568115249829187070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_62
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 271
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135490578e6222ff0800000000000000
+      internalID: -62444664991955663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_63
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 652
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34a33e9d2fc7f0f0800000000000000
+      internalID: -1083169390524652486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_64
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 642
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1bdc29c5c43b130800000000000000
+      internalID: 3581290089173332391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_65
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 652
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aed3c33eca548180800000000000000
+      internalID: -9114059904212803929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_66
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 663
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41dd25fb95fc6f60800000000000000
+      internalID: 8029062285876908364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_67
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 634
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c40b6a171ea26250800000000000000
+      internalID: 5936498673078437064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_68
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 658
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7229164e7324e3200800000000000000
+      internalID: 161639444454150695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_69
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 626
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7b30746534cbf90800000000000000
+      internalID: -6936595288219732018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_70
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 655
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391ee5b42d004ff70800000000000000
+      internalID: 9219995240341889427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_71
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 1000
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7757b78fdad3f150800000000000000
+      internalID: 5905304190002354044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_72
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 965
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dca2525d613c8d0800000000000000
+      internalID: -2827391036351132382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_73
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 936
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd9e34d6715f9750800000000000000
+      internalID: 6313854773405588983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_74
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 974
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fcdb55336a261f0800000000000000
+      internalID: -1053096623439229161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_75
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 1020
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c8ab8b87d95c9d0800000000000000
+      internalID: -2754622455246320506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_76
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 981
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864edb5ea1ac936a0800000000000000
+      internalID: -6468917172868619160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_77
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 937
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245694d5c3c58ef70800000000000000
+      internalID: 9216718051746604354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_78
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 456
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def18c098a3eb92f0800000000000000
+      internalID: -964927382017794067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_79
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 984
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d7e9b9302e77330800000000000000
+      internalID: 3708681323286527251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_80
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1021
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ae6749661ce16f0800000000000000
+      internalID: -711919044756313481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_81
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 927
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4204c3e47769badb0800000000000000
+      internalID: -4779561140365803484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_82
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 444
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18200468c9ee43a70800000000000000
+      internalID: 8805925527450813057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_83
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 473
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ac4b047fc9d5360800000000000000
+      internalID: 7160051568345401956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_84
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 941
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b970eb05d848404e0800000000000000
+      internalID: -2016340990675253349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_85
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 511
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaa18be49c180dc0800000000000000
+      internalID: -3672654070188758302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_86
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 468
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6da6f23a4bf74a70800000000000000
+      internalID: 8811287492074843503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_87
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 468
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b91650a69bd09890800000000000000
+      internalID: -7453215943316596295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_88
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 431
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5543a57a4922caf40800000000000000
+      internalID: 5741001646848750677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_89
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 508
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19fb8cbf9df05140800000000000000
+      internalID: 4706540473107085598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_90
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 494
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f051b4393d498f220800000000000000
+      internalID: 2519927627943974159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_91
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 459
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c15fcd02cd8e4cb0800000000000000
+      internalID: -4877805481800805944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_92
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 472
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7531cffe2b118c5c0800000000000000
+      internalID: -4195083592667491497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_93
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 478
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd379d9711c16de0800000000000000
+      internalID: -1341578906807353918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parralax bg (3)_94
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d44d85d6c5867e0800000000000000
+      internalID: -1772064828658791137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fe4278a4fc7a95047a738d840d958444
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      parralax bg (3)_0: 6169372243864588685
+      parralax bg (3)_1: -8829161907733244518
+      parralax bg (3)_10: -8862600885214977503
+      parralax bg (3)_11: -6597850029338773903
+      parralax bg (3)_12: -8997229246570781283
+      parralax bg (3)_13: -3230152522697430876
+      parralax bg (3)_14: 7699077356748605757
+      parralax bg (3)_15: -3644462955987429536
+      parralax bg (3)_16: 5414235219194622958
+      parralax bg (3)_17: 7302137828860051166
+      parralax bg (3)_18: -7563040442699377234
+      parralax bg (3)_19: -2967046643599604428
+      parralax bg (3)_2: -8614326226733046001
+      parralax bg (3)_20: 7654509111831064917
+      parralax bg (3)_21: 5826212812049760953
+      parralax bg (3)_22: 5482976398372036480
+      parralax bg (3)_23: -739690161699028783
+      parralax bg (3)_24: 8079655748224468976
+      parralax bg (3)_25: -1658888657682985999
+      parralax bg (3)_26: -6291529033697959800
+      parralax bg (3)_27: -3163694925745247043
+      parralax bg (3)_28: 2560456386604802371
+      parralax bg (3)_29: -8986072874508174103
+      parralax bg (3)_3: -3951718954440939297
+      parralax bg (3)_30: 9070192609723362218
+      parralax bg (3)_31: -7820705901361461071
+      parralax bg (3)_32: 2789637578635590757
+      parralax bg (3)_33: -2749694466473596313
+      parralax bg (3)_34: 3776964352017542457
+      parralax bg (3)_35: 1787947232266636785
+      parralax bg (3)_36: -2803444775660450947
+      parralax bg (3)_37: 4607810481856377702
+      parralax bg (3)_38: -8545081414306503257
+      parralax bg (3)_39: -1705054083252412341
+      parralax bg (3)_4: -3041948719464239204
+      parralax bg (3)_40: 4460786057921971612
+      parralax bg (3)_41: -1505585174967421036
+      parralax bg (3)_42: -816190766616907509
+      parralax bg (3)_43: -5944366669262895811
+      parralax bg (3)_44: 6934040899907226869
+      parralax bg (3)_45: 2848882233082241278
+      parralax bg (3)_46: -2098791300620589083
+      parralax bg (3)_47: 6247521301110003641
+      parralax bg (3)_48: 8645566480773917092
+      parralax bg (3)_49: 5380806524641283664
+      parralax bg (3)_5: 2489309465658241172
+      parralax bg (3)_50: 9184943487084569322
+      parralax bg (3)_51: 4746374056299251783
+      parralax bg (3)_52: -1512622698160842161
+      parralax bg (3)_53: -6975246425010851245
+      parralax bg (3)_54: -5242952588963277373
+      parralax bg (3)_55: 8076098071094314418
+      parralax bg (3)_56: 7483649436047584260
+      parralax bg (3)_57: 1369626183587791312
+      parralax bg (3)_58: -9159181767603152985
+      parralax bg (3)_59: -528411609042934773
+      parralax bg (3)_6: 8020310374972744992
+      parralax bg (3)_60: -6834450841717273924
+      parralax bg (3)_61: 4568115249829187070
+      parralax bg (3)_62: -62444664991955663
+      parralax bg (3)_63: -1083169390524652486
+      parralax bg (3)_64: 3581290089173332391
+      parralax bg (3)_65: -9114059904212803929
+      parralax bg (3)_66: 8029062285876908364
+      parralax bg (3)_67: 5936498673078437064
+      parralax bg (3)_68: 161639444454150695
+      parralax bg (3)_69: -6936595288219732018
+      parralax bg (3)_7: -1613300445963536085
+      parralax bg (3)_70: 9219995240341889427
+      parralax bg (3)_71: 5905304190002354044
+      parralax bg (3)_72: -2827391036351132382
+      parralax bg (3)_73: 6313854773405588983
+      parralax bg (3)_74: -1053096623439229161
+      parralax bg (3)_75: -2754622455246320506
+      parralax bg (3)_76: -6468917172868619160
+      parralax bg (3)_77: 9216718051746604354
+      parralax bg (3)_78: -964927382017794067
+      parralax bg (3)_79: 3708681323286527251
+      parralax bg (3)_8: 7171713590064049676
+      parralax bg (3)_80: -711919044756313481
+      parralax bg (3)_81: -4779561140365803484
+      parralax bg (3)_82: 8805925527450813057
+      parralax bg (3)_83: 7160051568345401956
+      parralax bg (3)_84: -2016340990675253349
+      parralax bg (3)_85: -3672654070188758302
+      parralax bg (3)_86: 8811287492074843503
+      parralax bg (3)_87: -7453215943316596295
+      parralax bg (3)_88: 5741001646848750677
+      parralax bg (3)_89: 4706540473107085598
+      parralax bg (3)_9: -1211149337679006044
+      parralax bg (3)_90: 2519927627943974159
+      parralax bg (3)_91: -4877805481800805944
+      parralax bg (3)_92: -4195083592667491497
+      parralax bg (3)_93: -1341578906807353918
+      parralax bg (3)_94: -1772064828658791137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
