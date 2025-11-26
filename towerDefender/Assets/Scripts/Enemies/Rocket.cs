@@ -44,7 +44,16 @@ public class Rocket : MonoBehaviour
 
         Die();
     }
-    
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.CompareTag("PlayerBullet"))
+        {
+            Die();
+            AudioManager.instance.PlaySFX(explosionClip);
+        }
+    }
+
     void Die()
     {
         Instantiate(explosionFX, explosionPos.position, Quaternion.identity);

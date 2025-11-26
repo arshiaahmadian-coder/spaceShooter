@@ -13,9 +13,11 @@ public class Bullet : MonoBehaviour
     {
         Destroy(gameObject, t);
     }
-    
-    void OnCollisionEnter2D(Collision2D other)
+
+    void OnTriggerEnter2D(Collider2D other)
     {
-        Destroy(gameObject);
+        if(!other.CompareTag("CamBound")) {
+            Destroy(gameObject);
+        }
     }
 }

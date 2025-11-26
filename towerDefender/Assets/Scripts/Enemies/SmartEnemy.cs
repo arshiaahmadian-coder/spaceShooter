@@ -113,10 +113,20 @@ public class SmartEnemy : MonoBehaviour
         }
     }
 
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.CompareTag("PlayerBullet"))
+        {
+            currentHealth--;
+            if (currentHealth <= 0) Die();
+        }
+    }
+
     void Die()
     {
         Instantiate(explosionFX, explosionPos.position, Quaternion.identity);
         WinLoseManager.instance.DeleteEnemyInList(this.gameObject);
+        AudioManager.instance.PlaySFX(explosionClip);
         Destroy(gameObject);
     }
 
