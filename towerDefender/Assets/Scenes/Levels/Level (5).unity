@@ -155,7 +155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemiesList:
   - {fileID: 222851292}
-  winLoseInterwal: 2
+  winLoseInterwal: 1
   controllerUI: {fileID: 1426149002}
   loseDialogUI: {fileID: 2049846538}
   winDialogUI: {fileID: 1064091946}
